@@ -1,2 +1,2 @@
 # Projects
-Old and new projects are uploaded here
+My projects are uploaded here
